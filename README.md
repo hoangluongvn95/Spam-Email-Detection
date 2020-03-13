@@ -1,5 +1,6 @@
 # Spam-Email-Detection
 Supervised Learning using scikit-learn package.
+
 Adopted Logistic Regrssion, K-Nearest Neighbors, Support Vector Machine, and Random Forest models.
 
 # Dataset
