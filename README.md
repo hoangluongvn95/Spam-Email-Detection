@@ -1,7 +1,7 @@
 # Spam-Email-Detection
 Supervised Learning using scikit-learn package.
 
-Adopted Logistic Regrssion, K-Nearest Neighbors, Support Vector Machine, and Random Forest models.
+Adopted Logistic Regression, K-Nearest Neighbors, Support Vector Machine, and Random Forest models.
 
 # Dataset
 1.  Title:  SPAM E-mail Database
